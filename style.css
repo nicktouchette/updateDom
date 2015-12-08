@@ -1,0 +1,9 @@
+img {
+  float: left;
+  height: 100px;
+  margin-right: 1em;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+}
